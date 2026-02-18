@@ -26,7 +26,7 @@ public class HomeController {
 //	public ProductRepository productRepository;
 	
 //	
-	@GetMapping("/home1")
+	@GetMapping("/home2")
 	public String home1() {
 
 		return "Welcome to first demo page";
