@@ -29,7 +29,7 @@ public class HomeController {
 	@GetMapping("/home2")
 	public String home1() {
 
-		return "Welcome to first demo page";
+		return "Welcome to first demo page1";
 
 	}
 	
