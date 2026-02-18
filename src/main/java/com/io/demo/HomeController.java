@@ -33,7 +33,7 @@ public class HomeController {
 
 	}
 	
-	@GetMapping("/home2")
+	@GetMapping("/home3")
 	public String home3() {
 
 		return "Welcome to first demo page";
